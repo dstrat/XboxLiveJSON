@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Downloads/slick.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/lwjgl-2.8.5/jar/lzma.jar"/>
+	<classpathentry kind="lib" path="lib/jars/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Project 4/lib/natives/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/slick.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/commons-beanutils-1.8.3/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/commons-beanutils-1.8.3/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/commons-beanutils-1.8.3/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/commons-beanutils-1.8.3/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/commons-beanutils-1.8.3/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/danielstratton/Desktop/commons-beanutils-1.8.3/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
